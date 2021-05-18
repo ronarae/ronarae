@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ronarae
-- 🌱 I’m currently learning JAVA and also PHP and more about Javascript
+- 🌱 I’m currenly studying Software Engineering
 - 📫 You can reach me by emailing me on rona.rieza2393@gmail.com
 
 <!---
